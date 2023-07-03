@@ -1,3 +1,5 @@
+**NOTE:** This is just a fork of the regular [OSQP Repository](https://github.com/osqp/osqp) reset to a specific commit to provide a stable base for our custom [ROS Docker Image](https://github.com/ka-raceing/ROS-Docker)
+
 # g2o - General Graph Optimization
 
 Linux: [![Build Status](https://travis-ci.org/RainerKuemmerle/g2o.svg?branch=master)](https://travis-ci.org/RainerKuemmerle/g2o)
